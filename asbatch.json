@@ -16,6 +16,14 @@
 		"batch_exam": "BOARD EXAM"
 	},
 	{
+                "batch_name": "CDS VIRAAT 1.0 2025",
+                "batch_class": "Graduation",
+                "batch_id": "66a9d85334bd16001846241f",
+                "batch_slug": "cds-viraat-1-0-2025-263265",
+                "batch_banner": "https://None",
+                "batch_exam": "NDA"
+        },
+	{
 		"batch_name": "Neev Diamond 2025 Recorded",
 		"batch_class": "9th",
 		"batch_id": "669bb6a83fbc340018d193d4",
