@@ -16,6 +16,14 @@
                 "batch_exam": "NDA"
 	},
 	{
+                "batch_name": "CAPF RAKSHAK 2025",
+                "batch_class": "Graduation",
+                "batch_id": "66a9f19b6e817300185921ef",
+                "batch_slug": "capf-rakshak-2025-104773",
+                "batch_banner": "https://None",
+                "batch_exam": "NDA"
+	},
+	{
 		"batch_name": "Udaan Diamond 2025 Recorded",
 		"batch_class": "10th",
 		"batch_id": "669c0064ee4f9000182720ed",
