@@ -24,6 +24,14 @@
                 "batch_exam": "NDA"
 	},
 	{
+                "batch_name": "Full Stack Development Course (Hinglish)",
+                "batch_class": "12+",
+                "batch_id": "664237a15680dc001841e71e",
+                "batch_slug": "full-stack-development-course--hinglish--916358",
+                "batch_banner": "https://",
+                "batch_exam": "skills"
+        },
+	{
 		"batch_name": "Udaan Diamond 2025 Recorded",
 		"batch_class": "10th",
 		"batch_id": "669c0064ee4f9000182720ed",
