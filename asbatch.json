@@ -1,5 +1,5 @@
 [
-    {
+        {
 		"batch_name": "AFCAT GARUD 1.0 2025",
 		"batch_class": "Graduation",
 		"batch_id": "66a9d00c0875550018fadc62",
@@ -8,12 +8,12 @@
 		"batch_exam": "NDA"
 	},
 	{
-	    "batch_name": "CDS VIRAAT 1.0 2025",
-        "batch_class": "Graduation",
-        "batch_id": "66a9d85334bd16001846241f",
-        "batch_slug": "cds-viraat-1-0-2025-263265",
-        "batch_banner": "https://None",
-        "batch_exam": "NDA"
+	        "batch_name": "CDS VIRAAT 1.0 2025",
+                "batch_class": "Graduation",
+                "batch_id": "66a9d85334bd16001846241f",
+                "batch_slug": "cds-viraat-1-0-2025-263265",
+                "batch_banner": "https://None",
+                "batch_exam": "NDA"
 	},
 	{
 		"batch_name": "Udaan Diamond 2025 Recorded",
